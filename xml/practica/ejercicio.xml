@@ -1,0 +1,40 @@
+<etiqueta>
+
+    <nombre>
+        Juan 
+    </nombre>
+    <apellidos>
+        Delgado Martinez
+        </apellidos>
+    <pedido>
+        <compone>
+        Bicicleta
+        </compone>
+        <modelo>
+        A2023
+        </modelo>
+
+    </pedido>
+
+    <entrega>
+        <direccion>
+            <calle>
+                Barco
+            </calle>
+            <nCalle>
+                4
+            </nCalle>
+            <piso>
+            tercer piso
+            </piso>
+            <letra>
+                A
+            </letra>
+        </direccion>
+
+        <fechaEntrega>
+            19-05-2000
+        </fechaEntrega>
+    </entrega>
+
+</etiqueta>

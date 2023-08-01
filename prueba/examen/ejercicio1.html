@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>
+        Imagenes:
+    </h1>
+    <img class="clase" src="img/img1.jfif" width="200px" height="200px">
+    
+</body>
+<script>
+    let validar = true;
+    setInterval(() =>{
+        if(validar){
+                let number = Math.round(Math.random()*10);
+                switch (number) {
+                    case 10:
+                        document.querySelector(".clase").setAttribute("src","img/img10.jfif")
+                        break;
+                    case 9:
+                    document.querySelector(".clase").setAttribute("src","img/img9.jfif")         
+                        break;
+                    case 8:
+                    document.querySelector(".clase").setAttribute("src","img/img8.jfif")         
+                        break;
+                    case 7:
+                    document.querySelector(".clase").setAttribute("src","img/img7.jfif")                        
+                        break;
+                    case 6:
+                    document.querySelector(".clase").setAttribute("src","img/img6.jfif")                        
+                        break;
+                    case 5:
+                    document.querySelector(".clase").setAttribute("src","img/img5.jfif")                        
+                        break;
+                    case 4:
+                    document.querySelector(".clase").setAttribute("src","img/img4.jfif")                        
+                        break;
+                    case 3:
+                    document.querySelector(".clase").setAttribute("src","img/img3.jfif")                        
+                        break;
+                    case 2:
+                        document.querySelector(".clase").setAttribute("src","img/img2.jfif")                           
+                        break;
+                    case 1:
+                        document.querySelector(".clase").setAttribute("src","img/img1.jfif")                        
+                        break;                                                
+            }
+        }
+    },1000)
+
+    setTimeout(() =>{
+        validar = false;
+    },10000)
+
+
+        document.querySelector(".clase").addEventListener("click",() =>{
+            let number = Math.round(Math.random()*10);
+            switch (number) {
+                case 10:
+                    document.querySelector(".clase").setAttribute("src","img/img10.jfif")
+                    break;
+                case 9:
+                document.querySelector(".clase").setAttribute("src","img/img9.jfif")         
+                    break;
+                case 8:
+                document.querySelector(".clase").setAttribute("src","img/img8.jfif")         
+                    break;
+                case 7:
+                document.querySelector(".clase").setAttribute("src","img/img7.jfif")                        
+                    break;
+                case 6:
+                document.querySelector(".clase").setAttribute("src","img/img6.jfif")                        
+                    break;
+                case 5:
+                document.querySelector(".clase").setAttribute("src","img/img5.jfif")                        
+                    break;
+                case 4:
+                document.querySelector(".clase").setAttribute("src","img/img4.jfif")                        
+                    break;
+                case 3:
+                document.querySelector(".clase").setAttribute("src","img/img3.jfif")                        
+                    break;
+                case 2:
+                document.querySelector(".clase").setAttribute("src","img/img2.jfif")                           
+                    break;
+                case 1:
+                document.querySelector(".clase").setAttribute("src","img/img1.jfif")                        
+                    break;                                                
+            }
+        })
+
+    </script>
+</html>

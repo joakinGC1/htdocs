@@ -1,0 +1,25 @@
+.usuario{
+    float: left;
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border: 5px solid black;
+    margin-left: 10px;
+    margin: 10px;
+}
+
+.x{
+    font-size: 40px;
+    color: black;
+    padding-bottom: 2px;
+}
+.volver{
+    border: 2px solid black;
+    display: inline;
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin: 20px;
+}
+

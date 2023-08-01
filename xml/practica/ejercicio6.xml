@@ -1,0 +1,14 @@
+<ciudades>
+    <ciudad class="asia">
+        <nombre>Nueva Delhi</nombre>
+        <pais>India</pais>
+    </ciudad>
+    <ciudad class="europa">
+        <nombre>Lisboa</nombre>
+        <pais>Portugal</pais>
+    </ciudad>
+    <ciudad class="africa">
+        <nombre>El Cairo</nombre>
+        <pais>Egipto</pais>
+    </ciudad>
+</ciudades>

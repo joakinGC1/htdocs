@@ -1,0 +1,40 @@
+<raiz>
+    <acerMonspessulanum>
+        <nombre>Arce de Montpellier, Arce menor</nombre>
+        <vegetacion>Caducifolio</vegetacion>
+        <altura> De 6 a 10 metros</altura>
+        <forma>: Copa esférica. Tronco principal recto con bifurcaciones. Ramaje 
+colgante</forma>
+        <color>Haz verde brillante, envés verde blanquecino</color>
+        <resistencia>Heladas fuertes (hasta -15ºC)</resistencia>
+    </acerMonspessulanum>
+    <oleaEuropea>
+        <nombre>Olivo</nombre>
+        <vegetacion>Perenne</vegetacion>
+        <altura>De 8 a 15 metros</altura>
+        <forma> Copa irregular. Tronco principal irregular con bifurcaciones</forma>
+    </oleaEuropea>
+    <ramajeTortuoso>
+        <color> Haz verde oscuro, envés verde plateado</color>
+        <resistencia>Heladas medias (hasta -10ºC)</resistencia>
+    </ramajeTortuoso>
+    <platanUsorientalis>
+        <nombre> Platano</nombre>
+        <vegetacion>Caducifolio</vegetacion>
+        <altura>De 20 a 25 metros</altura>
+        <forma>Copa ovoidal. Tronco principal recto. Ramaje expandido</forma>
+        <color> Haz verde medio, enves verde claro</color>
+        <colorOtoño>Ocre</colorOtoño>
+        <resistencia> Heladas fuertes (hasta -20ºC)</resistencia>
+    </platanUsorientalis>
+    <quercusIlex>
+        <nombre> Encina</nombre>
+        <vegetacion> Perenne</vegetacion>
+        <altura>En torno a 25 metros</altura>
+        <forma>Copa esférica o elíptica irregular. Tronco principal recto. Ramaje 
+tortuoso</forma>
+    <colorEnPrimavera>Plateado en hojas jóvenes. En hojas antiguas, haz verde oscuro, 
+envés plateado</colorEnPrimavera>
+    <resistencia> Heladas fuertes (hasta -15ºC)</resistencia>
+    </quercusIlex>
+</raiz>
